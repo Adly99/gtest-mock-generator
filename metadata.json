@@ -1,0 +1,5 @@
+{
+  "name": "GTest Mock Generator",
+  "description": "An application to generate GTest mock definitions from C++ header files using the Gemini API. Paste your C++ header content and get GTest mocks instantly.",
+  "requestFramePermissions": []
+}
